@@ -2,6 +2,8 @@
 
 Everything runs in your web browser, so you do not need to install a C++ compiler or coding environment on the computer.
 
+Building a graphical application? Read [Using GitHub Codespaces for a GUI Project](GUI_PROJECTS.md) for a cross-platform development and testing workflow.
+
 ## Initial Setup
 
 ### 1. Sign Up for GitHub Copilot as a Student
